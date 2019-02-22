@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "收藏链接"
+title: "blog链接"
 date: 2018-07-19
-category: link
+category: blog
 tags: link
 ---
 
-yours live2D 这么萌的看板娘 你确定不来一个吗？  
 
 [wikimoe_live2d](https://www.wikimoe.com/)  
 [Live2D看板娘来了！typecho插件](https://qqdie.com/archives/l2d233.html)  

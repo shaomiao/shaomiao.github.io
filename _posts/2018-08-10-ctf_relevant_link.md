@@ -2,7 +2,7 @@
 layout: post
 title: "一些ctf的链接"
 date: 2018-08-10
-category: CTF
+category: ctf
 tags: CTF
 ---
 

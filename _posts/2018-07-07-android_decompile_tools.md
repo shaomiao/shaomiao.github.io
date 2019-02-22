@@ -2,13 +2,15 @@
 layout: post
 title: "android反编译工具和命令"
 date: 2018-07-07
-category: android
-tags: adnroid
+category: android逆向
+tags: adnroid 安全 反编译
 ---
 
 ## TOOLS
 
 [apktool](https://bitbucket.org/iBotPeaches/apktool/downloads/)  
+
+[apktool文档](https://ibotpeaches.github.io/Apktool/documentation/)  
 
 [dex2jar](https://sourceforge.net/projects/dex2jar/files/)  
 
@@ -21,7 +23,6 @@ tags: adnroid
 
 **jadx:**简直是神器啊  
 
-打开jadx-gui  
 直接把apk拖进去就可以了  
 
 **apktool:**获取资源文件  

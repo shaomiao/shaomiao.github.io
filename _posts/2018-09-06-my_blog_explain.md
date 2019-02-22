@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我的博客说明指南"
+title: "博客说明指南"
 date: 2018-09-06
 category: blog
 tags: blog
@@ -78,7 +78,8 @@ tags: blog
 
 **建议删除的目录/文件（不删除也没事）/Suggest Delete：**  
 ```
-_drafts / laji / pdf / readme_img / resource / yoone / CNAME / README.md / README1.md / TODO.md
+_drafts / laji / pdf / readme_img / resource / 
+yoone / CNAME / README.md / README1.md / TODO.md
 ```
 
 
@@ -184,6 +185,7 @@ hitokoto [一言](https://hitokoto.cn/)true/false
 
 这是自定义属性
 背景图 背景颜色 字体颜色  
+推荐一个颜色网站，和风的，颜色有点美[NIPPON COLORS](http://nipponcolors.com/)
 
 	sty:
 	  back-img: 'https://coding.net/u/tea9/p/image/git/raw/master/blog_img/appreciate/runa.png' 首页背景图

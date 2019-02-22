@@ -2,8 +2,8 @@
 layout: post
 title: "RPG_Maker_MV-安卓HTML一键打包"
 date: 2018-08-15
-category: RPG_Maker_MV
-tags: RPG_Maker_MV
+category: rpgmakermv
+tags: rpgmakermv
 ---
 
 ## tips
@@ -14,7 +14,7 @@ tags: RPG_Maker_MV
 
 [HTML一键打包APK工具](http://www.krpano.tech/archives/420)  
 
-[HTML压缩包](https://pan.baidu.com/s/18zv4O-BD-mWKQYApTj-r4g?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)
+[HTML压缩包下载](https://pan.baidu.com/s/18zv4O-BD-mWKQYApTj-r4g?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)
 
 ## 部署项目
 文件-部署-Android/IOS
