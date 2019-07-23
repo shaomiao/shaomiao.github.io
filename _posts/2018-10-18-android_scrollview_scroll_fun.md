@@ -340,17 +340,17 @@ activity_svlis.xml
 	            public void onOffsetChanged(AppBarLayout appBarLayout, int i) {
 	                if (i == 0) {
 	                    //展开状态
-	                    Log.e("shaomiaomrootCL", "展开状态");
+	                    Log.e("mrootCL", "展开状态");
 	                    mPullToRefresh.setCanRefresh(true);
 	                    mPullToRefresh.setCanLoadMore(false);
 	                } else if (Math.abs(i) >= appBarLayout.getTotalScrollRange()) {
 	//折叠状态
-	                    Log.e("shaomiaomrootCL", "折叠状态");
+	                    Log.e("mrootCL", "折叠状态");
 	                    mPullToRefresh.setCanRefresh(false);
 	                    mPullToRefresh.setCanLoadMore(true);
 	                } else {
 	//中间状态
-	                    Log.e("shaomiaomrootCL", "中间状态");
+	                    Log.e("mrootCL", "中间状态");
 	                    mPullToRefresh.setCanRefresh(false);
 	                    mPullToRefresh.setCanLoadMore(false);
 	                }
