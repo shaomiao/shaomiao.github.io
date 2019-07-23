@@ -57,7 +57,7 @@ tags: android android逆向
 
 	http://adbshell.com/
 
-	/Users/shaomiao/Library/Android/sdk/tools/monitor  
+	/Users/xx/Library/Android/sdk/tools/monitor  
 
 [Android ADB命令?这一次我再也不死记了!【简单说】](https://www.jianshu.com/p/56fd03f1aaae)  
 

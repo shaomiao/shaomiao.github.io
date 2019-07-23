@@ -8,7 +8,7 @@ tags: android
 
 
 	01/04 14:52:52: Launching app
-	$ adb push /Users/shaomiao/Documents/product/adb_check_qr/app/build/outputs/apk/debug/app-debug.apk /data/local/tmp/com.demo.adbcheckqr
+	$ adb push /Users/xx/Documents/product/adb_check_qr/app/build/outputs/apk/debug/app-debug.apk /data/local/tmp/com.demo.adbcheckqr
 	$ adb shell pm install -t -r "/data/local/tmp/com.demo.adbcheckqr"
 	Success
 	APK installed in 11 s 648 ms
@@ -29,7 +29,7 @@ tags: android
 	V/ActivityThread: Handle window ActivityRecord{43160d4 token=android.os.BinderProxy@6f9f93f {com.demo.adbcheckqr/com.demo.adbcheckqr.activity.TestActivity}} visibility: false
 
 
-	adb push /Users/shaomiao/Documents/product/adb_check_qr/app/build/outputs/apk/debug/app-debug.apk /data/local/tmp/com.demo.adbcheckqr
+	adb push /Users/xx/Documents/product/adb_check_qr/app/build/outputs/apk/debug/app-debug.apk /data/local/tmp/com.demo.adbcheckqr
 
 	adb shell pm install -t -r "/data/local/tmp/com.demo.adbcheckqr"
 

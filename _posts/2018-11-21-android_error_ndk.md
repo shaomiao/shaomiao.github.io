@@ -10,7 +10,7 @@ tags: android
 同理一些相同NDK目录可能也是缺少某些文件  
 
 	ndk目录
-	/Users/shaomiao/Library/Android/sdk/ndk-bundle
+	/Users/xx/Library/Android/sdk/ndk-bundle
 
 1.打开项目local.properties文件
 

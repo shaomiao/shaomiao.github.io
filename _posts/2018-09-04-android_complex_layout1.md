@@ -197,7 +197,7 @@ HomeViewPagerActivity.kt
         var tabList = arrayListOf("tab1","tab2","tab3","tab4","tab5","tab6","tab7")
         var imgList:ArrayList<String> = arrayListOf("https://images.unsplash.com/photo-1531026383433-6ed5a112afbc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c010c700aac502636ad0b579ce1274a4&auto=format&fit=crop&w=1650&q=80","https://images.unsplash.com/photo-1531075515553-b4d1f75ff534?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b3f6b409e70fca36a74369d882e85f49&auto=format&fit=crop&w=1567&q=80","https://images.unsplash.com/photo-1531130744926-1d86103aebeb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=28f240aae3de685fc4742f09c922f6f8&auto=format&fit=crop&w=1714&q=80")
         var mesList = arrayListOf("您的公告1","您的公告2","您的公告3")
-        var dataList = arrayListOf<String>("hhhhhh","sssss","aaa","bbb","zzz","aaa","bbb","kkk","aaa","bbb","shaomiao","aaa","bbb","ojj","aaa","bbb","fjkjk","aaa","bbb","dfkdkjk","aaa","bbb")
+        var dataList = arrayListOf<String>("hhhhhh","sssss","aaa","bbb","zzz","aaa","bbb","kkk","aaa","bbb","aaa","bbb","ojj","aaa","bbb","fjkjk","aaa","bbb","dfkdkjk","aaa","bbb")
     
     
         override fun onCreate(savedInstanceState: Bundle?) {
@@ -348,7 +348,7 @@ TabFragment.kt
             if (null!=args) {
                 pageType = args.getInt("position")
                 data = args.getString("data")
-                Log.e("shaomiaodata",data)
+                Log.e("data",data)
             }
         }
     
